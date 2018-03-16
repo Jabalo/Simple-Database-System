@@ -1,7 +1,7 @@
 
 # Simple Database System
 
-THIS IS A SIMPLE DATABASE APPLICATION TO ORGANIZE THE ANIME TITLES I HAVE WATCHED.<br />
+THIS IS A SIMPLE DATABASE APPLICATION TO ORGANIZE INFORMATION.<br />
 
 INTRUCTIONS:<br />
     - ADD DATA will add new entries to database and requires a unique TITLE.<br />
